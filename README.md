@@ -7,6 +7,8 @@ Live Demo:
 https://amirhosseinln.github.io/advanced-finance-tracker/
 
 ---
+## Contributors
+- Xu Chenrui (2254666) - Accessibility & i18n improvements
 
 ## Preview
 
